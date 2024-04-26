@@ -1,6 +1,6 @@
 # FBclone - bhancarios
 
-A simple HTML/CSS project resembling a Facebook-like interface.
+A simple HTML/CSS&js project resembling a Facebook-like interface.
 
 ## Table of Contents
 
